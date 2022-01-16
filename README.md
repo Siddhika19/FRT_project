@@ -19,9 +19,20 @@ Steps followed are as follows:
 
 4. Then select "static website" feature from side options. Now click on "enabled" option. write the index.html file name in which the code is written. Now save the changes. you will then get the link to your website in primary endpoint column.
 
+![Screenshot (102)](https://user-images.githubusercontent.com/66512043/149665461-08237571-de28-44ef-9915-9882dbc78043.png)
 
 
 5. As you save the changes, there is a "$web" hyperlink enabled on the page. click on it to upload the files of the content to be uploaded on the site.  Click on upload option and upload all the required files and then click "upload".
 
+![Screenshot (103)](https://user-images.githubusercontent.com/66512043/149665485-a00e31b0-c931-4b89-b33c-ea2e35626cde.png)
+
+
+![Screenshot (105)](https://user-images.githubusercontent.com/66512043/149665493-3db59c93-ae34-4259-8884-59c88a8bbc16.png)
+
+
 
 6. Now your site is live with all the content provoded. you can access by pasting the link to your site on the browser and your site will open up.
+
+
+![Screenshot (106)](https://user-images.githubusercontent.com/66512043/149665505-0330c37d-52ae-42f0-9978-8b852d21e68c.png)
+
