@@ -11,9 +11,12 @@ Steps followed are as follows:
 
 2. Now navigate to storage account. A page will open, enter the details and then click "Review + create" button at bottom of the page.
 
+![Screenshot (98)](https://user-images.githubusercontent.com/66512043/149665291-ccd292ac-c3b8-42fa-b818-c4a3ab5af08f.png)
 
 
 3. Once the deployment is done, click on "Go to resource". 
+
+![Screenshot (99)](https://user-images.githubusercontent.com/66512043/149665298-b21e4240-c237-45f6-a67d-9659a457a47b.png)
 
 
 4. Then select "static website" feature from side options. Now click on "enabled" option. write the index.html file name in which the code is written. Now save the changes. you will then get the link to your website in primary endpoint column.
