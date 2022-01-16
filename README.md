@@ -16,8 +16,6 @@ Steps followed are as follows:
 
 3. Once the deployment is done, click on "Go to resource". 
 
-![Screenshot (99)](https://user-images.githubusercontent.com/66512043/149665298-b21e4240-c237-45f6-a67d-9659a457a47b.png)
-
 
 4. Then select "static website" feature from side options. Now click on "enabled" option. write the index.html file name in which the code is written. Now save the changes. you will then get the link to your website in primary endpoint column.
 
