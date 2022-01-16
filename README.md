@@ -6,8 +6,11 @@ Steps followed are as follows:
 
 1. Open your azure account. I have used an account that is azure for students.
 
+![Screenshot (97)](https://user-images.githubusercontent.com/66512043/149665179-c8eedb98-fb57-49b6-b7ce-7e099053db79.png)
+
 
 2. Now navigate to storage account. A page will open, enter the details and then click "Review + create" button at bottom of the page.
+
 
 
 3. Once the deployment is done, click on "Go to resource". 
